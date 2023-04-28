@@ -1,7 +1,7 @@
 const express = require('express');
 const router = express.Router();
 const { resolve } = require('path');
-const controllers = require("./constollers")
+const controllers = require("../controllers")
 
 router.get('/', controllers.home);
 router.get('/page1', controllers.page1);

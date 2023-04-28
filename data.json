@@ -1,0 +1,19 @@
+{
+  "todos": [
+    {
+      "id": "deb8118d-8f2d-409a-a73a-354cc8396f47",
+      "text": "Faire la vaisselle",
+      "done": false
+    },
+    {
+      "id": "430deb7b-d1ea-4f4e-b0ca-da0eae6f8b8d",
+      "text": "Faire le ménage",
+      "done": true
+    },
+    {
+      "id": "e95cf033-807c-4165-a781-249202674460",
+      "text": "Faire les courses",
+      "done": false
+    }
+  ]
+}
